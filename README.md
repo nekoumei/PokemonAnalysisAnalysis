@@ -1,0 +1,2 @@
+# PokemonTweetAnalysys
+ポケモン自己分析の出現ポケモン分布を調べる
